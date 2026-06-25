@@ -1,2 +1,2 @@
-# My-first-HTML-sample-project-.-
+# My-first-HTML-projects-.-
 My first simple HTML website project .
